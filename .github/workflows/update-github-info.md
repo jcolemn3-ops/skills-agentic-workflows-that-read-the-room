@@ -1,8 +1,8 @@
 ---
 name: update-github-info
-description: Draft website updates for Mona's GitHub Info site from official GitHub sources .
+description: Draft website updates for Mona's GitHub Info site from official GitHub sources.
 engine: copilot
-model: claude-3-5-sonnet
+model: claude-3-5-sonnet-latest
 on:
   workflow_dispatch:
   schedule:
