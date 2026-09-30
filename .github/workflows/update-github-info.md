@@ -33,7 +33,7 @@ Use these sources:
 - Awesome Copilot workflows: https://awesome-copilot.github.com/workflows/
 
 Use the web-fetch tool to fetch the Awesome Copilot workflows source, along with
-the GitHub Blog and Changelog sources above..
+the GitHub Blog and Changelog sources above.
 
 Update `site/content/github-info.md` with concise,
 practical updates for readers and include source context for each official
