@@ -2,7 +2,7 @@
 name: update-github-info
 description: Draft website updates for Mona's GitHub Info site from official GitHub sources.
 engine: copilot
-model: claude-3-5-sonnet-latest
+model: claude-sonnet-4-5
 on:
   workflow_dispatch:
   schedule:
